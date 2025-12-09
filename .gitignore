@@ -43,3 +43,6 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Local JDK bundle (too large for git)
+lib/Oracle_JDK-24/
